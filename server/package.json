@@ -7,7 +7,8 @@
         "dev": "tsx watch server.ts",
         "build": "tsc",
         "start": "node dist/server.js",
-        "postinstall": "prisma generate"
+        "postinstall": "prisma generate",
+        "test": "NODE_ENV=test AI_API_KEY=test-key TRUSTED_ORIGINS=http://localhost:5173 tsx --test test/**/*.test.ts"
     },
     "dependencies": {
         "@prisma/adapter-pg": "^7.4.1",

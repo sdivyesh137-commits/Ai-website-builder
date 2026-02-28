@@ -21,7 +21,7 @@
 
 ## 🌟 Overview
 
-**DivStack AI** is a state-of-the-art AI-powered SaaS platform that transforms natural language prompts into fully functional, uniquely styled websites. Leveraging advanced Large Language Models (LLMs) via OpenRouter, DivStack AI intelligent writes clean HTML, inline Javascript, and Tailwind CSS, presenting a live preview to users instantly.
+**DivStack AI** is a state-of-the-art AI-powered SaaS platform that transforms natural language prompts into fully functional, uniquely styled websites. Leveraging advanced Large Language Models (LLMs) via OpenRouter, DivStack AI intelligently writes clean HTML, inline Javascript, and Tailwind CSS, presenting a live preview to users instantly.
 
 It features a robust tech stack (PERN stack with React + Vite), a beautiful dark-themed GUI, live code preview, version rollback, and seamless iteration through conversational AI prompts.
 
@@ -29,7 +29,7 @@ It features a robust tech stack (PERN stack with React + Vite), a beautiful dark
 
 - **🤖 AI-Powered Generation**: Instantly build websites from a single text prompt using top-tier models like `z-ai/glm-4.5-air:free`.
 - **💬 Conversational UI/UX**: Ask the AI to make specific layout changes, change color palettes, or rewrite content through an intuitive chat interface.
-- **🔄 Live Live Engine**: Real-time rendering of the generated code inside beautiful, responsive device mockups (Desktop, Tablet, Mobile).
+- **🔄 Live Engine**: Real-time rendering of the generated code inside beautiful, responsive device mockups (Desktop, Tablet, Mobile).
 - **⏳ Version Control**: Automatically saves iterations. Easily rollback to any previously generated state with a single click.
 - **💾 Download & Deploy**: Export clean, production-ready HTML/Tailwind code with zero bloat to host anywhere.
 - **💳 Credit System & Auth**: Fully integrated authentication (Better Auth) and credit management system out of the box.
@@ -59,7 +59,7 @@ Follow these instructions to set up the project locally on your machine.
 ### Prerequisites
 - Node.js (v18 or higher)
 - PostgreSQL Database (Local or Cloud like Supabase/Neon)
-- OpenRouter API Key (or OpenAI API Key)
+- OpenRouter API Key
 
 ### Installation
 
@@ -138,4 +138,3 @@ Project Link: [https://github.com/yourusername/ai-website-builder](https://githu
 
 ---
 <p align="center">Made with ❤️ by Divyesh</p>
-
